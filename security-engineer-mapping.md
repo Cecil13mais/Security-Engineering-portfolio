@@ -2,7 +2,7 @@
 
 - Detection Engineering:
   Tuned SIEM detections using real telemetry (Event ID 4625)
-
+ 
 - Incident Response:
   Built playbooks and automated containment workflows
 
