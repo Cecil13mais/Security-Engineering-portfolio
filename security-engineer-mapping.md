@@ -1,5 +1,3 @@
-# Resume Alignment (Security Engineer)
-
 ## Key Experience Mapping
 
 - Detection Engineering:
